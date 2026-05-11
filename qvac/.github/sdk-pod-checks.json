@@ -1,0 +1,23 @@
+[
+  {
+    "package": "sdk",
+    "path": "packages/sdk",
+    "pkg_manager": "bun"
+  },
+  {
+    "package": "cli",
+    "path": "packages/cli"
+  },
+  {
+    "package": "rag",
+    "path": "packages/rag"
+  },
+  {
+    "package": "logging",
+    "path": "packages/logging"
+  },
+  {
+    "package": "error",
+    "path": "packages/error"
+  }
+]
