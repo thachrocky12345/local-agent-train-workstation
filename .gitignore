@@ -1,0 +1,28 @@
+# Local Claude Code settings (user-specific permissions)
+.claude/settings.local.json
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.bak
+
+# Build outputs (qvac)
+qvac/**/node_modules/
+qvac/**/dist/
+qvac/**/build/
+qvac/**/*.tsbuildinfo
+
+# Python artifacts (research repo)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+config.bat
+node_modules
